@@ -1,6 +1,6 @@
 ## Check crypto price and send notification on desktop
 
-* Use CoinGecko api
+* Use CoinGecko api (https://www.coingecko.com/en/api)
 * config.json have the setting
     * coinId is the id for the coin
     * pullRateSec is how many api call per second
