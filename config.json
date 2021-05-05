@@ -1,0 +1,9 @@
+{
+    "coinId": "chainlink",
+    "pullRateSec": 10,
+    "notificationSetting": {
+      "price": 48,
+      "when": "above"
+    }
+  }
+  

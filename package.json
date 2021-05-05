@@ -1,0 +1,21 @@
+{
+  "name": "check-price-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "got": "^11.8.2",
+    "node-cron": "^3.0.0",
+    "node-notifier": "^9.0.1"
+  }
+}
